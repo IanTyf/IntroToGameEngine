@@ -1,0 +1,1 @@
+canPlaySnd = true;
